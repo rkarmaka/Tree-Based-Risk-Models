@@ -1325,5 +1325,3 @@ shap.dependence_plot('Poverty index', shap_values, X_test, interaction_index='Ag
 
 
 We see that the impact of poverty index drops off quickly, and for higher income individuals age begins to explain much of variation in the impact of poverty index.
-
-Try some other pairs and see what other interesting relationships you can find!
